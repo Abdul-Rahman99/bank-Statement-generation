@@ -1,0 +1,7 @@
+user_email,date_of_transaction,amount
+user1@example.com,2023-01-01,225
+user1@example.com,2023-01-05,40
+user2@example.com,2023-01-02,30
+user2@example.com,2023-01-02,88
+user3@example.com,2023-01-06,70
+user3@example.com,2023-01-06,30
